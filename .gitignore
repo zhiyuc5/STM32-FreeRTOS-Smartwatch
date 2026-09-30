@@ -1,0 +1,24 @@
+# 編譯資料夾
+Objects/
+Listings/
+DebugConfig/
+.vscode/
+
+# 個人介面與debug暫存檔
+*.uvguix.*
+*.uvoptx
+*.uvopt
+*.bak
+*.saved_uv4
+
+# 編譯產物
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.build_log.htm
+*.htm
+*.iex
+*.lnp
